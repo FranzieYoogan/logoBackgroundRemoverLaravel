@@ -1,0 +1,27 @@
+.containerFile {
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.containerItems {
+
+    margin-top: 5em;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.btn {
+
+    margin-top: 1em;
+    width: 100%;
+}
+
+body {
+
+    background-color: #ffc0cb !important;
+
+}

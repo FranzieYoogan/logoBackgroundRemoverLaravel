@@ -25,7 +25,7 @@
 
                 <label for="formFileLg" class="form-label">Choose Your Pic</label>
                 <input class="form-control form-control-lg" id="formFileLg" name="inputPic" type="file"  accept="image/png, image/jpeg">
-                <button type="submit" name="submit" class="btn btn-secondary">Secondary</button>
+                <button type="submit" name="submit" class="btn btn-secondary">Remove It</button>
             </form>
 
         </section>

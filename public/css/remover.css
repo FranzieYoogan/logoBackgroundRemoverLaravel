@@ -4,8 +4,22 @@
 
 
 .containerImg {
-    background-color: purple !important;
+    background-color: pink !important;
     display: flex;
     justify-content: center;
 
 }
+
+
+body::-webkit-scrollbar {
+    width: 0.5em;
+    background-color: black;
+
+  }
+   
+
+   
+  body::-webkit-scrollbar-thumb {
+    background-color: white;
+    outline: 1px solid black;
+  }
